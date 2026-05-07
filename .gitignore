@@ -13,3 +13,4 @@ CLAUDE.md
 # 忽略缓存文件
 __pycache__/
 *.py[cod]
+.claude/
