@@ -46,8 +46,8 @@
 ### **核心框架**
 - **Python 3.8+**：主力开发语言
 - **Pandas & NumPy**：数据处理和分析
-- **Qlib**：腾讯量化投资平台（AI驱动的量化框架）
-- **Backtrader**：专业回测引擎
+- **Qlib**：微软开源AI量化投资框架（[GitHub](https://github.com/microsoft/qlib)）
+- **Backtrader**：专业回测引擎（[GitHub](https://github.com/mementum/backtrader)）
 
 ### **机器学习**
 - **PyTorch/TensorFlow**：深度学习框架
