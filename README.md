@@ -1,9 +1,9 @@
 <!--
 
- * @Author: your name
+ * @Author: yan
  * @Date: 2022-04-17 00:54:11
- * @LastEditTime: 2025-12-14 21:37:56
- * @LastEditors: hugo2046 shen.lan123@gmail.com
+ * @LastEditTime: 2026-07-03 21:37:56
+ * @LastEditors: yan0621
  * @Description: 复现目录
  * @FilePath: \undefinedd:\WrokSpace\QuantsPlaybook\README.md
 -->
@@ -14,32 +14,6 @@
 数据依赖:[jqdata](https://www.joinquant.com/) 和 [tushare](https://tushare.pro/)
 
 每个文件夹中有对应的券商研报及相关的论文,py文件中为ipynb的复现文档
-
-## ✨ 项目特色
-
-### 🚀 **行业领先的复现质量**
-- **100+ 量化策略**：涵盖择时、因子、价值、组合四大领域
-- **权威券商研报**：光大、华泰、招商、国信等顶级券商金工成果
-- **严格复现标准**：每个策略都经过详细验证和回测
-
-### 🎯 **实战导向的设计**
-- **真实市场数据**：基于A股市场真实行情数据
-- **完整代码实现**：从数据获取到策略回测的全流程代码
-- **可视化分析**：丰富的图表和性能分析报告
-
-### 💡 **技术创新亮点**
-- **多技术融合**：传统技术分析 + 现代机器学习
-- **HHT模型**：改进的希尔伯特-黄变换应用
-- **深度学习**：集成多种神经网络算法（Transformer、LSTM等）
-- **因子挖掘**：独创的球队硬币因子、STR凸显性因子等
-
-### 📊 **丰富的策略生态**
-| 类别 | 策略数量 | 核心特色 | 代表作品 |
-|------|----------|----------|----------|
-| 择时策略 | 25+ | 市场时机把握 | RSRS、QRS、HHT模型 |
-| 因子构建 | 20+ | 多因子模型 | 筹码分布、凸显性因子 |
-| 量化价值 | 2+ | 基本面分析 | FFScore、现金流模型 |
-| 组合优化 | 2+ | 风险管理 | 多任务学习、DE算法 |
 
 ## 🛠️ 技术栈
 
@@ -259,16 +233,3 @@ import matplotlib.pyplot as plt
 - 💻 **GitHub社区**：众多量化爱好者的贡献
 
 ---
-
-## 更多分享请加入
-
-分享有更多qlib的模型复现
-
-![image](https://github.com/hugo2046/QuantsPlaybook/raw/5b244d751b7b2671b39d9fc0bf47b285a9b02ff9/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpg)
-
-## 请我喝杯咖啡吧
-
-![image](https://raw.githubusercontent.com/hugo2046/Quantitative-analysis/master/coffee.png)
-
-
-
